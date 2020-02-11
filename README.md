@@ -1,0 +1,2 @@
+# SSIS-Projeleri
+Veri Madenciliği
